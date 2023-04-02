@@ -1,0 +1,2 @@
+Libro | ISBN: 71170536128150 / Titolo: Giacomo scrive un libro, epico. / Anno di pubblicazione: 2020 / Numero di pagine: 101 / Autore: Giacomo / Genere: Fantasy
+Rivista | ISBN: 36031185639390 / Titolo: Giacomo dopo il successo del libro scrive anche una rivista. / Anno di pubblicazione: 2021 / Numero di pagine: 99 / Periodicità: Mensile
